@@ -19,16 +19,16 @@ To play the Mad Libs game on your local machine, follow these simple steps:
 
 Clone the repository (or copy the code into a .py file):
 
-git clone https://github.com/YOUR_USERNAME/your-madlibs-repo-name.git
-cd your-madlibs-repo-name
+git clone https://github.com/7asan-mrisat/madlibs-game.git
+cd madlibs-game
 
 (Remember to replace YOUR_USERNAME and your-madlibs-repo-name with your actual GitHub username and the name you give this repository!)
 
 Execute the Python script:
 
-python madlibs_game.py
+python madlibs-game.py
 
-(Assuming you save the code as madlibs_game.py)
+(Assuming you save the code as madlibs-game.py)
 
 Follow the on-screen prompts to enter your words and see your unique story!
 
@@ -55,6 +55,6 @@ Save/Share Stories: Add functionality to save the generated story to a file or s
 🧑‍💻 Connect with Me
 Feel free to explore my other repositories to see what else I'm building and learning!
 
-GitHub Profile: [Link to your main GitHub profile, e.g., https://github.com/7asan-mrisat]
+GitHub Profile: [https://github.com/7asan-mrisat]
 
 Have fun creating your own silly stories!

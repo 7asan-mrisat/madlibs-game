@@ -28,7 +28,7 @@ To play the Mad Libs game on your local machine, follow these simple steps:
 1.  **Clone the repository** (or copy the code into a `.py` file):
     ```bash
     git clone [https://github.com/7asan-mrisat/madlibs-game.git]
-    cd your-madlibs-repo-name
+    cd madlibs-game
     ```
 
 2.  **Execute the Python script:**
